@@ -5,7 +5,7 @@
  * @LastEditors: ZY
  * @LastEditTime: 2020-11-04 09:35:13
 -->
-# oppc-enterprise-web
+# vue3-typescript-template
 
 ## Project setup
 ```
